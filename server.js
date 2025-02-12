@@ -36,7 +36,7 @@ const io = new Server(server, {
 });
 
 // Initialize other constants
-const stripe = new Stripe(process.env.STRIPE_KEY || 'sk_test_51QTAVdFRIUl121ZBlI4c1NiRCv6ITFOVZ5j1SN8kV8upiNSmCaBBllI5JcRNQimcTSdnsN0g2SsVSX5Mv5lM297B00F1LMh9Xm');
+const stripe = new Stripe(process.env.STRIPE_KEY )
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 const port = process.env.PORT || 3000;
