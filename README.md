@@ -4,10 +4,10 @@
 Rozgaar is a revolutionary platform designed to bridge the gap between skilled rural workers and employment opportunities. By leveraging modern technology while maintaining accessibility, Rozgaar creates meaningful connections between workers and employers.
 
 ### Home Page
-![Home Page](./screenshots/Screenshot1.png)
+![Home Page](./screenshots/screenshot1.png)
 
 ### Location Based Search
-![Serach job through location](./screenshots/Screenshot2.png)
+![Serach job through location](./screenshots/screenshot2.png)
 
 ## Key Features
 
